@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "telegraf": "^4.9.1",
+    "wikijs": "^6.3.3"
+  },
+  "name": "top-wikipedia-telegram",
+  "description": "A bot that sends a daily update with the most read articles of wikipedia of that dat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessiogandelli/top-wikipedia-telegram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessiogandelli/top-wikipedia-telegram/issues"
+  },
+  "homepage": "https://github.com/alessiogandelli/top-wikipedia-telegram#readme",
+  "type": "module"
+}
